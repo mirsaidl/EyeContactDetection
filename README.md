@@ -1,8 +1,10 @@
 # Eye Contact Detection
 
 This project implements a system for detecting eye contact using computer vision techniques.
-Demo:
-![image](https://github.com/user-attachments/assets/b2596755-a995-4496-8400-8c545eb20e8f)
+
+Demo with CUDA:
+![image](https://github.com/user-attachments/assets/7fc0ae94-fc37-4cfc-b9d5-c46aab836215)
+
 
 
 ## Table of Contents
