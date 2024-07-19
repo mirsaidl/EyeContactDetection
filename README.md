@@ -1,7 +1,3 @@
-Here's a draft for your README file based on the contents of the GitHub repository:
-
----
-
 # Eye Contact Detection
 
 This project implements a system for detecting eye contact using computer vision techniques.
